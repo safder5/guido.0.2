@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "132842422466",
+    "project_id": "guido-test-20e43",
+    "storage_bucket": "guido-test-20e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132842422466:android:dc1d1aecbbd6e598097b5b",
+        "android_client_info": {
+          "package_name": "com.example.guido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132842422466-lnlaeerpnhjfctnu22h0ol97n64r1o1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOqLT_lbcz2N19lI0QI76eoEEC9p7UjbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132842422466-lnlaeerpnhjfctnu22h0ol97n64r1o1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132842422466-infpvh0ipp42260n38b7m0825b71nu0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.guido"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
