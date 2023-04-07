@@ -1,6 +1,6 @@
 # guido
 
-A new Flutter project.
+##its for those who dare to be optimistic
 
 ## Getting Started
 
