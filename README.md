@@ -1,6 +1,6 @@
 # guido
 
-##its for those who dare to be optimistic
+its for those who dare to be optimistic
 
 ## Getting Started
 
